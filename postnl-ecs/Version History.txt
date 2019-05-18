@@ -1,4 +1,4 @@
-Release 1.9.2.3 - 18-05-2019
+Release 1.9.2.4 - 18-05-2019
 - Fix issues with PostNL tracking code
 - Fix issue to not process shipment file if already processed.
 
